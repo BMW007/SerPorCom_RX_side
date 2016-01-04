@@ -1,2 +1,3 @@
 # SerPorCom_RX_side
 SerPorCom_RX_side
+STM32F10X_HD,USE_STDPERIPH_DRIVER
